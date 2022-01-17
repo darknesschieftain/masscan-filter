@@ -1,4 +1,3 @@
-# masscan-filter
 
 usage: python3 masscan-filter.py [-h] [-i INPUT_FILE] [-o OUTPUT_FILE]
 
